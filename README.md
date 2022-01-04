@@ -1,1 +1,1 @@
-# Tugas_9_JS
+# Tugas_9_JavaScript
